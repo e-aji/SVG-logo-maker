@@ -2,6 +2,7 @@
 
 ## Description
 
+This project was aimed to create a svg logo generator. 
 
 ## User Story
 
@@ -36,17 +37,22 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 
-
 ## Images 
 
+npm test results 
+
+<img width="773" alt="npm test" src="https://github.com/e-aji/week-10-svg-logo-maker/assets/156595423/780342c3-6d7d-4290-9497-0a73953c090f">
 
 
+Screenshot of Generated SVG Logo 
+
+![Screenshot of Generated SVG Logo](https://github.com/e-aji/week-10-svg-logo-maker/assets/156595423/ee3d4801-3833-4007-a349-d038385e7868)
 
 
 ## Link 
 
 
-
+Link to video demonstration - https://www.youtube.com/watch?v=4Kfwy8VUllU 
 
 
 
